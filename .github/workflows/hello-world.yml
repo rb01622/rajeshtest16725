@@ -1,11 +1,11 @@
-name: Hello World Workflow
+name: Hello Rajesh World Workflow
 
 on: [push]
 
 jobs:
-  say-hello:
+  Rajesh-hello:
     runs-on: ubuntu-latest
     steps:
-      - name: Print Hello World
-        run: echo "Hello, World!"
+      - name: Print Rajesh Hello World
+        run: echo "Rajesh, Kannah!"
 
